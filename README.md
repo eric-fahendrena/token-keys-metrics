@@ -62,7 +62,7 @@ npm start
     }
   ```
 
-  _**Note** : The restrictions with solana will be available soon._
+  _**Note** : The missing properties in solana will be available soon._
 
 ## License
 
