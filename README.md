@@ -63,3 +63,7 @@ npm start
   ```
 
   _**Note** : The restrictions with solana will be available soon._
+
+## License
+
+MIT License
