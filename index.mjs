@@ -1,8 +1,8 @@
 import express from 'express';
 import cors from 'cors';
-import { getTronscanTKM } from './tronscan.mjs';
-import { getSolscanTKM } from './solscan.mjs';
-import { getEtherscanTKM } from './etherscan.mjs';
+import { getTronscanTKM } from './blockchain-data/tronscan.mjs';
+import { getSolscanTKM } from './blockchain-data/solscan.mjs';
+import { getEtherscanTKM } from './blockchain-data/etherscan.mjs';
 
 const app = express();
 const port = 5000;
